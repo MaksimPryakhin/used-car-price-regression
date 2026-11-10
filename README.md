@@ -62,4 +62,4 @@
 git clone https://github.com/MaksimPryakhin/used-car-price-regression.git
 cd used-car-price-regression
 pip install -r requirements.txt
-jupyter notebook notebooks/used-cars.ipynb
+jupyter notebook notebooks/pet-used-cars.ipynb
