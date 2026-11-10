@@ -1,0 +1,13 @@
+data/
+models/
+*.pt
+*.safetensors
+*.bin
+*.csv
+!reports/baseline_test_results.csv
+!reports/optuna_test_results.csv
+!reports/final_table.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
